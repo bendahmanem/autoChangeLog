@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:bendahmanem/autoChangeLog.git",
   "author": "mnbddev <mounir.bendahmane@ecole-isitech.fr>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
 }
